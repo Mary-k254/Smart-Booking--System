@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../docs"
+		},
+		{
+			"path": "../dashboard"
+		},
+		{
+			"path": "../database"
+		},
+		{
+			"path": "../mobile"
+		}
+	]
+}
